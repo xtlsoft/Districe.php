@@ -12,7 +12,7 @@
  * @link     https://github.com/xtlsoft/Saphon/
  */
 
-namespace Saphon\Tests;
+namespace Districe\Tests;
 
 require dirname(__DIR__) . '/vendor/autoload.php';
 

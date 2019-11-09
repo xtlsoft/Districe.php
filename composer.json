@@ -1,6 +1,6 @@
 {
-  "name": "xtlsoft/saphon",
-  "description": "Re-define web development.",
+  "name": "xtlsoft/districe",
+  "description": "Distributed messaging protocol. (PHP Implemention)",
   "type": "library",
   "license": "MIT",
   "authors": [{
@@ -10,12 +10,12 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Saphon\\": "./src/"
+      "Districe\\": "./src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Saphon\\Tests\\": "./tests/"
+      "Districe\\Tests\\": "./tests/"
     }
   },
   "require-dev": {
